@@ -31,7 +31,7 @@
 | 🎖️ | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Apr 2025 |
 | 🎖️ | [Store and retrieve data using literal and variable values in C#](https://learn.microsoft.com/en-us/training/modules/csharp-literals-variables/) | Apr 2025 |
 
-📄 [View full Microsoft Learn profile](https://learn.microsoft.com/en-us/users/bilalsarwar2907/)
+📄 [View full Microsoft Learn profile](https://learn.microsoft.com/en-us/users/bilal-2907/)
 
 ---
 
@@ -115,8 +115,8 @@ RESTful API built with C# for student data management.
 ## 📫 Connect
 
 - 📧 Email: bilalsarwar2907@gmail.com
-- 🎓 Microsoft Learn: [bilalsarwar2907](https://learn.microsoft.com/en-us/users/bilalsarwar2907/)
-- 💼 LinkedIn: *Add your LinkedIn URL here*
+- 🎓 Microsoft Learn: [bilal-2907](https://learn.microsoft.com/en-us/users/bilal-2907/)
+- 💼 LinkedIn: [Bilal Sarwar](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
 
 ---
 
