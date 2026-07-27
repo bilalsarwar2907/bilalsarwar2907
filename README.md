@@ -88,6 +88,12 @@ Python-based intelligent agent router — routes queries to the most cost-effect
 ### 🎓 [StudentAPI](https://github.com/bilalsarwar2907/StudentAPI)
 RESTful API built with C# for student data management.
 
+### 🧠 [azure-foundry-chat-lab](https://github.com/bilalsarwar2907/azure-foundry-chat-lab)
+Microsoft Learn lab — async generative AI chat app using the OpenAI Responses API connected to a Microsoft Foundry deployed model (gpt-5-mini). Includes streaming and multi-turn conversation.
+
+### 🔍 [azure-knowledge-mining-lab](https://github.com/bilalsarwar2907/azure-knowledge-mining-lab)
+Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts entities, key phrases, and locations from documents using enrichment skillsets and custom indexes.
+
 ---
 
 ## 📊 What I've Built with AI (Practical)
