@@ -21,6 +21,9 @@
 
 | Badge | Module | Completed |
 |---|---|---|
+| 🎖️ | [Optimize generative AI model performance with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/optimize-generative-ai-model-performance/) | Jul 2026 |
+| 🎖️ | [Develop generative AI apps that use tools](https://learn.microsoft.com/en-us/training/modules/use-generative-ai-tools/) | Jul 2026 |
+| 🎖️ | [Develop a generative AI chat app with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/develop-ai-foundry-chat-app/) | Jul 2026 |
 | 🎖️ | [Select, deploy, and evaluate Microsoft Foundry models](https://learn.microsoft.com/en-us/training/modules/model-catalog-evaluate/) | Jul 2026 |
 | 🎖️ | [Get started with AI-powered information extraction in Azure](https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-powered-information-extraction/) | Jul 2026 |
 | 🎖️ | [Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/) | Jul 2026 |
@@ -37,7 +40,7 @@
 
 ## ☁️ Azure Resources (Hands-on)
 
-- **Microsoft Foundry** — deployed `gpt-5-mini` and `gpt-5.2` on Global Standard
+- **Microsoft Foundry** — deployed `gpt-5-mini` and `gpt-5.2` on Global Standard; fine-tuned `gpt-4.1` with Supervised Fine-Tuning (SFT)
 - **Azure AI Search** — knowledge mining with enrichment pipelines, skillsets, indexes
 - **Azure Storage** — blob storage for document indexing
 - **Azure App Service** — deployed web APIs and frontends
@@ -124,6 +127,3 @@ Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts e
 - 🎓 Microsoft Learn: [bilal-2907](https://learn.microsoft.com/en-us/users/bilal-2907/)
 - 💼 LinkedIn: [Bilal Sarwar](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
 
----
-
-*736 contributions in the last year and counting 🔥*
