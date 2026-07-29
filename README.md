@@ -152,4 +152,4 @@ Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts e
 
 ---
 
-*736 contributions in the last year and counting 🔥*
+*757 contributions in the last year and counting 🔥*
