@@ -1,17 +1,31 @@
 # Hi, I'm Bilal Sarwar 👋
 
-**AI Application Developer** | Azure AI Engineer | Full-Stack Developer
+**AI Application Developer** | Azure AI Engineer | MCP Developer | Full-Stack Developer
 
-> Passionate about building intelligent, production-grade AI applications using Microsoft Azure, LLMs, and modern web technologies.
+> Passionate about building intelligent, production-grade AI applications using Microsoft Azure, Anthropic Claude, LLMs, and modern web technologies.
 
 ---
 
 ## 🤖 What I Build
 
 - **AI Agents** — autonomous agents with tool use, routing, and memory
+- **MCP Servers & Clients** — Model Context Protocol servers with multi-server client orchestration
 - **RAG Pipelines** — Retrieval-Augmented Generation with vector search
 - **Knowledge Mining** — document intelligence and information extraction on Azure
 - **Full-Stack AI Apps** — FastAPI backends + Vue.js frontends + Azure AI services
+
+---
+
+## 🎓 Anthropic Academy
+
+> All 4 courses completed — July 2026
+
+| Course | Status |
+|--------|--------|
+| Claude 101 | ✅ Complete |
+| Claude Code 101 | ✅ Complete |
+| Claude Platform 101 | ✅ Complete |
+| Introduction to Claude Cowork | ✅ Complete (10/10) |
 
 ---
 
@@ -21,6 +35,7 @@
 
 | Badge | Module | Completed |
 |---|---|---|
+| 🎖️ | [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) | Jul 2026 |
 | 🎖️ | [Optimize generative AI model performance with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/optimize-generative-ai-model-performance/) | Jul 2026 |
 | 🎖️ | [Develop generative AI apps that use tools](https://learn.microsoft.com/en-us/training/modules/use-generative-ai-tools/) | Jul 2026 |
 | 🎖️ | [Develop a generative AI chat app with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/develop-ai-foundry-chat-app/) | Jul 2026 |
@@ -57,6 +72,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5C6BC0?style=flat)
 
 **Frontend**
 
@@ -78,6 +95,9 @@
 ---
 
 ## 🚀 Key Projects
+
+### 📡 [arxiv-chatbot](https://github.com/bilalsarwar2907/arxiv-chatbot)
+MCP-powered research chatbot — custom FastMCP server exposing arXiv search tools, multi-server MCP client connecting filesystem + research + fetch servers simultaneously, and full Claude Desktop integration. Implements stdio and SSE/Streamable HTTP transports. Built with FastMCP + OpenRouter (claude-haiku-4-5).
 
 ### 🤖 [MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent)
 AI Agent built in C# for chat and automation tasks.
@@ -102,14 +122,17 @@ Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts e
 ## 📊 What I've Built with AI (Practical)
 
 ```
+✅ MCP Server/Client     — FastMCP server + multi-server client + Claude Desktop integration
+✅ SSE Transport         — Remote MCP server with SSE and Streamable HTTP
 ✅ RAG Pipeline          — ChromaDB + Embeddings + Vector Search
-✅ Knowledge Mining      — Azure AI Search + Skillsets + Enrichment Pipeline  
+✅ Knowledge Mining      — Azure AI Search + Skillsets + Enrichment Pipeline
 ✅ Document Extraction   — Entity recognition, key phrases, location detection from PDFs
 ✅ Agent Routing         — Multi-model routing based on cost and task complexity
 ✅ JWT Authentication    — Secure API with token-based auth
 ✅ Docker Deployment     — Containerised AI applications
 ✅ Foundry Models        — GPT-5-mini and GPT-5.2 deployed on Azure Global Standard
 ✅ Vision AI             — Multimodal prompts with image analysis
+✅ Fine-tuning           — gpt-4.1 fine-tuned with Supervised Fine-Tuning (SFT) on Azure
 ```
 
 ---
@@ -127,3 +150,6 @@ Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts e
 - 🎓 Microsoft Learn: [bilal-2907](https://learn.microsoft.com/en-us/users/bilal-2907/)
 - 💼 LinkedIn: [Bilal Sarwar](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
 
+---
+
+*736 contributions in the last year and counting 🔥*
