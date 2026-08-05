@@ -83,6 +83,12 @@ All assessments passed with hands-on lab work on real Azure resources.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Microsoft Platform**
+
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
+
 **Backend & Infrastructure**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
