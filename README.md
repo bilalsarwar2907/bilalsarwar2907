@@ -1,8 +1,6 @@
 # Hi, I'm Bilal Sarwar
 
-**AI Application Developer** | Azure AI Engineer | MCP Developer | Full-Stack Developer
-
-> Passionate about building intelligent, production-grade AI applications using Microsoft Azure, Anthropic Claude, LLMs, and modern web technologies.
+C# .NET · Python · Azure · AI | Building AI applications with MCP, RAG and Copilot Studio
 
 ---
 
