@@ -102,27 +102,28 @@
 
 ## Key Projects
 
+### [foundry-multiagent](https://github.com/bilalsarwar2907/foundry-multiagent)
+Multi-agent RAG system on Azure AI Foundry with safety guardrails, ground-truth evaluation, cost monitoring and a fine-tuned GPT-4.1 model.
+
+### [CareerForge](https://github.com/bilalsarwar2907/CareerForge)
+AI career assistant on the Claude API. Hybrid search (vector + BM25), prompt evaluation, and runs as an MCP server in Docker.
+
+### [InterviewCoach](https://github.com/bilalsarwar2907/InterviewCoach)
+Interview prep agent in Copilot Studio with a FastAPI backend. Role-specific questions, skill-gap analysis and a 7-day study plan.
+
+### [MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent) + [chat-ui](https://github.com/bilalsarwar2907/chat-ui)
+Full-stack AI stock screening and paper trading. .NET 8 Web API backend, Vue 3 + TypeScript frontend.
+
+### [career-intelligence](https://github.com/bilalsarwar2907/career-intelligence)
+Finds, scores and tracks job openings with AI. .NET 8, Razor Pages, EF Core and a background worker queue.
+
 ### [arxiv-chatbot](https://github.com/bilalsarwar2907/arxiv-chatbot)
-MCP-powered research chatbot — custom FastMCP server exposing arXiv search tools, multi-server MCP client connecting filesystem + research + fetch servers simultaneously, and full Claude Desktop integration. Implements stdio and SSE/Streamable HTTP transports. Built with FastMCP + OpenRouter (claude-haiku-4-5).
+MCP research chatbot over arXiv. FastMCP server, multi-server client, stdio and HTTP transports.
 
-### [MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent)
-AI Agent built in C# for chat and automation tasks.
+### [ai-decision-intelligence-platform](https://github.com/bilalsarwar2907/ai-decision-intelligence-platform)
+Machine learning on California Housing data: data analysis, gradient descent from scratch, baseline model and XGBoost, with CI on GitHub Actions.
 
-### [chat-ui](https://github.com/bilalsarwar2907/chat-ui)
-Vue.js frontend for AI chat applications.
-
-### [ai-cost-router](https://github.com/bilalsarwar2907/ai-cost-router)
-Python-based intelligent agent router — routes queries to the most cost-effective AI model based on complexity and task type.
-
-### [StudentAPI](https://github.com/bilalsarwar2907/StudentAPI)
-RESTful API built with C# for student data management.
-
-### [azure-foundry-chat-lab](https://github.com/bilalsarwar2907/azure-foundry-chat-lab)
-Microsoft Learn lab — async generative AI chat app using the OpenAI Responses API connected to a Microsoft Foundry deployed model (gpt-5-mini). Includes streaming and multi-turn conversation.
-
-### [azure-knowledge-mining-lab](https://github.com/bilalsarwar2907/azure-knowledge-mining-lab)
-Microsoft Learn lab — knowledge mining pipeline on Azure AI Search. Extracts entities, key phrases, and locations from documents using enrichment skillsets and custom indexes.
-
+**Also:** [ai-cost-router](https://github.com/bilalsarwar2907/ai-cost-router) · [azure-foundry-chat-lab](https://github.com/bilalsarwar2907/azure-foundry-chat-lab) · [azure-knowledge-mining-lab](https://github.com/bilalsarwar2907/azure-knowledge-mining-lab) · [startup-profit-prediction-using-ml](https://github.com/bilalsarwar2907/startup-profit-prediction-using-ml)
 ---
 
 ## What I've Built with AI (Practical)
@@ -145,7 +146,6 @@ Fine-tuning           — gpt-4.1 fine-tuned with Supervised Fine-Tuning (SFT) o
 
 ## GitHub Stats
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalsarwar2907&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsarwar2907&layout=compact&theme=dark&hide_border=true)
 
 ---
@@ -155,7 +155,3 @@ Fine-tuning           — gpt-4.1 fine-tuned with Supervised Fine-Tuning (SFT) o
 - Email: bilalsarwar2907@gmail.com
 - Microsoft Learn: [bilal-2907](https://learn.microsoft.com/en-us/users/bilal-2907/)
 - LinkedIn: [Bilal Sarwar](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
-
----
-
-*850 contributions in the last year and counting*
