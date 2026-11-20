@@ -1,155 +1,50 @@
 # Hi, I'm Bilal Sarwar
 
-C# .NET · Python · Azure · AI | Building AI applications with MCP, RAG and Copilot Studio
+**Building AI agents — and testing how they break.** I don't trust the model alone, I trust the evidence.
+cand.it. (ITU) · completing a Datamatiker AP degree at Erhvervsakademi Zealand (June 2027) · 16 years running my own business · Open to full-time IT and AI roles in Copenhagen.
 
----
+[![Email](https://img.shields.io/badge/Email-bilalsarwar2907%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalsarwar2907@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bilal_Sarwar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
 
-## What I Build
+👉 **Start here:** [insurance-assistant-agent](https://github.com/bilalsarwar2907/insurance-assistant-agent) — LangGraph agent with RAG, guardrails, human handover and 41 tests in CI.
 
-- **AI Agents** — autonomous agents with tool use, routing, and memory
-- **MCP Servers & Clients** — Model Context Protocol servers with multi-server client orchestration
-- **RAG Pipelines** — Retrieval-Augmented Generation with vector search
-- **Knowledge Mining** — document intelligence and information extraction on Azure
-- **Full-Stack AI Apps** — FastAPI backends + Vue.js frontends + Azure AI services
+## Now building
+- **Prompt Injection Security Lab** *(private, in progress)* — attack tests on a tool-using AI assistant. Initial baseline: 4 of 36 attacks succeeded before defences; now building layered defences.
+- **[CareerForge](https://github.com/bilalsarwar2907/CareerForge)** — AI career assistant on the Claude API, in active development.
+- **[MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent)** — full-stack .NET 8 + Vue 3 app, built with Claude as pair-programmer.
 
----
+## Best projects
+| Project | What it shows |
+|---|---|
+| [insurance-assistant-agent](https://github.com/bilalsarwar2907/insurance-assistant-agent) | LangGraph agent, Qdrant RAG with citations, guardrails, human handover · 41 tests, 20-case evaluation set |
+| [CareerForge](https://github.com/bilalsarwar2907/CareerForge) | Claude API, hybrid search (vector + BM25), MCP server, FastAPI + JWT · 30 tests · 20 evaluation cases |
+| [foundry-multiagent](https://github.com/bilalsarwar2907/foundry-multiagent) | Azure AI Foundry multi-agent RAG · prompt-injection guardrails · evaluation · fine-tuning |
+| [InterviewCoach](https://github.com/bilalsarwar2907/InterviewCoach) | Copilot Studio agent + FastAPI via OpenAPI 3.0.1 · human-review flow · 22 tests |
+| [MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent) | .NET 8 Web API + Vue 3 / TypeScript · AI-assisted stock screening · paper trading · 60+ stocks |
 
-## Anthropic Academy
+**Also:** [career-intelligence](https://github.com/bilalsarwar2907/career-intelligence) · [arxiv-chatbot](https://github.com/bilalsarwar2907/arxiv-chatbot) · [ai-cost-router](https://github.com/bilalsarwar2907/ai-cost-router) · [azure-knowledge-mining-lab](https://github.com/bilalsarwar2907/azure-knowledge-mining-lab)
 
-> All 10 courses completed — July/August 2026
+## How I work
+- **Tests before demo** — pytest and xUnit, run in GitHub Actions
+- **Evaluation, not guesses** — test sets and ground-truth checks for AI answers
+- **Security first** — prompt injection, guardrails, human approval for risky actions
+- **Cost-aware model routing** — balancing capability and cost
 
-| Course | Status |
-|--------|--------|
-| Claude 101 | Complete |
-| Claude Code 101 | Complete |
-| Claude Platform 101 | Complete |
-| Introduction to Claude Cowork | Complete |
-| Claude Code in Action | Complete |
-| AI Fluency: Framework & Foundations | Complete |
-| Building with the Claude API | Complete |
-| Introduction to Model Context Protocol | Complete |
-| AI Fluency for Educators | Complete |
-| AI Fluency for Students | Complete |
-
----
-
-## Microsoft Learn Achievements
-
-> All assessments passed with hands-on lab work on real Azure resources.
-
-| Module | Completed |
-|--------|-----------|
-| [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) | Jul 2026 |
-| [Optimize generative AI model performance with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/optimize-generative-ai-model-performance/) | Jul 2026 |
-| [Develop generative AI apps that use tools](https://learn.microsoft.com/en-us/training/modules/use-generative-ai-tools/) | Jul 2026 |
-| [Develop a generative AI chat app with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/develop-ai-foundry-chat-app/) | Jul 2026 |
-| [Select, deploy, and evaluate Microsoft Foundry models](https://learn.microsoft.com/en-us/training/modules/model-catalog-evaluate/) | Jul 2026 |
-| [Get started with AI-powered information extraction in Azure](https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-powered-information-extraction/) | Jul 2026 |
-| [Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/) | Jul 2026 |
-| [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/) | Jul 2026 |
-| [Create a knowledge mining solution with Azure AI Search](https://learn.microsoft.com/en-us/training/modules/ai-knowldge-mining/) | Jul 2026 |
-| [Develop a vision-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-apps/) | Jul 2026 |
-| [Get started with AI in Azure](https://learn.microsoft.com/en-us/training/modules/get-started-with-ai-in-azure/) | Jul 2026 |
-| [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Apr 2025 |
-| [Store and retrieve data using literal and variable values in C#](https://learn.microsoft.com/en-us/training/modules/csharp-literals-variables/) | Apr 2025 |
-
-[View full Microsoft Learn profile](https://learn.microsoft.com/en-us/users/bilal-2907/)
-
----
-
-## Azure Resources (Hands-on)
-
-- **Microsoft Foundry** — deployed `gpt-5-mini` and `gpt-5.2` on Global Standard; fine-tuned `gpt-4.1` with Supervised Fine-Tuning (SFT)
-- **Azure AI Search** — knowledge mining with enrichment pipelines, skillsets, indexes
-- **Azure Storage** — blob storage for document indexing
-- **Azure App Service** — deployed web APIs and frontends
-- **Azure SQL** — relational database deployments
-- **Foundry Toolkit** — integrated into VS Code for model management
-
----
-
-## Tech Stack
-
-**AI & ML**
-
+## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![C#](https://img.shields.io/badge/C%23_.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5C6BC0?style=flat)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend & Infrastructure**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat)
+![MCP](https://img.shields.io/badge/MCP-5C6BC0?style=flat)
+![Azure](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-**AI Tools & Databases**
+**Security:** prompt injection · OWASP Top 10 for LLMs · PKI and OpenVPN · SQL injection
+**Ways of working:** Scrum · XP · SOLID and GoF patterns
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
-![Vector Search](https://img.shields.io/badge/Vector_Search-0078D4?style=flat)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-## Key Projects
-
-### [foundry-multiagent](https://github.com/bilalsarwar2907/foundry-multiagent)
-Multi-agent RAG system on Azure AI Foundry with safety guardrails, ground-truth evaluation, cost monitoring and a fine-tuned GPT-4.1 model.
-
-### [CareerForge](https://github.com/bilalsarwar2907/CareerForge)
-AI career assistant on the Claude API. Hybrid search (vector + BM25), prompt evaluation, and runs as an MCP server in Docker.
-
-### [InterviewCoach](https://github.com/bilalsarwar2907/InterviewCoach)
-Interview prep agent in Copilot Studio with a FastAPI backend. Role-specific questions, skill-gap analysis and a 7-day study plan.
-
-### [MyAIAgent](https://github.com/bilalsarwar2907/MyAIAgent) + [chat-ui](https://github.com/bilalsarwar2907/chat-ui)
-Full-stack AI stock screening and paper trading. .NET 8 Web API backend, Vue 3 + TypeScript frontend.
-
-### [career-intelligence](https://github.com/bilalsarwar2907/career-intelligence)
-Finds, scores and tracks job openings with AI. .NET 8, Razor Pages, EF Core and a background worker queue.
-
-### [arxiv-chatbot](https://github.com/bilalsarwar2907/arxiv-chatbot)
-MCP research chatbot over arXiv. FastMCP server, multi-server client, stdio and HTTP transports.
-
-### [ai-decision-intelligence-platform](https://github.com/bilalsarwar2907/ai-decision-intelligence-platform)
-Machine learning on California Housing data: data analysis, gradient descent from scratch, baseline model and XGBoost, with CI on GitHub Actions.
-
-**Also:** [ai-cost-router](https://github.com/bilalsarwar2907/ai-cost-router) · [azure-foundry-chat-lab](https://github.com/bilalsarwar2907/azure-foundry-chat-lab) · [azure-knowledge-mining-lab](https://github.com/bilalsarwar2907/azure-knowledge-mining-lab) · [startup-profit-prediction-using-ml](https://github.com/bilalsarwar2907/startup-profit-prediction-using-ml)
----
-
-## What I've Built with AI (Practical)
-
-```
-MCP Server/Client     — FastMCP server + multi-server client + Claude Desktop integration
-SSE Transport         — Remote MCP server with SSE and Streamable HTTP
-RAG Pipeline          — ChromaDB + Embeddings + Vector Search
-Knowledge Mining      — Azure AI Search + Skillsets + Enrichment Pipeline
-Document Extraction   — Entity recognition, key phrases, location detection from PDFs
-Agent Routing         — Multi-model routing based on cost and task complexity
-JWT Authentication    — Secure API with token-based auth
-Docker Deployment     — Containerised AI applications
-Foundry Models        — GPT-5-mini and GPT-5.2 deployed on Azure Global Standard
-Vision AI             — Multimodal prompts with image analysis
-Fine-tuning           — gpt-4.1 fine-tuned with Supervised Fine-Tuning (SFT) on Azure
-```
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsarwar2907&layout=compact&theme=dark&hide_border=true)
-
----
-
-## Connect
-
-- Email: bilalsarwar2907@gmail.com
-- Microsoft Learn: [bilal-2907](https://learn.microsoft.com/en-us/users/bilal-2907/)
-- LinkedIn: [Bilal Sarwar](https://www.linkedin.com/in/bilal-sarwar-a449a83b7/)
+## Certifications
+Anthropic Academy — all 10 courses (2026) · [Microsoft Learn](https://learn.microsoft.com/en-us/users/bilal-2907/) — Azure AI Foundry, 13 badges · DeepLearning.AI — MCP
